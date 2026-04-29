@@ -1,6 +1,6 @@
 {
-  "name": "send2ai",
-  "description": "AI聊天浏览器扩展",
+  "name": "FastBurp",
+  "description": "FastBurp - API调试工具",
   "private": true,
   "version": "0.0.0",
   "type": "module",
