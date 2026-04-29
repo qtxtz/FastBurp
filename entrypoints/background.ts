@@ -1,4 +1,4 @@
-import browser from 'webextension-polyfill';
+import { browser } from 'wxt/browser';
 import { applyProxyToRequest, checkProxyPermissions, watchProxyChanges, forceClearChromeProxy } from './background/proxy-handler';
 import { 
   processUrl, 

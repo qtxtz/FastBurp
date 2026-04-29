@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo, createRef, RefObject, useCallback } from 'react';
-import browser from 'webextension-polyfill';
+import { browser } from 'wxt/browser';
 import './App.css';
 import './styles/TabSelector.css';
 import { 
@@ -1165,4 +1165,3 @@ function App() {
 }
 
 export default App;
-

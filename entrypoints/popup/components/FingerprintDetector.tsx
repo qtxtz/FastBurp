@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import browser from 'webextension-polyfill';
+import { browser } from 'wxt/browser';
 import { fingerprintService, FingerprintResult, FingerprintType, FingerprintRule, MatchTarget } from '../services/fingerprint-service';
 import { FiToggleRight, FiToggleLeft, FiPlus, FiDownload, FiUpload, FiSave, FiX, FiEdit3, FiTrash2, FiEye, FiShield, FiServer, FiDatabase, FiGlobe, FiCode, FiSettings, FiActivity, FiChevronDown, FiChevronRight, FiRefreshCw, FiSearch, FiFilter } from 'react-icons/fi';
 import '../styles/FingerprintDetector.css';
