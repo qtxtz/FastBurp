@@ -1,4 +1,4 @@
-import browser from 'webextension-polyfill';
+import { browser } from 'wxt/browser';
 
 // 存储键
 export const PROXY_STORAGE_KEYS = {
