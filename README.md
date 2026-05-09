@@ -2,15 +2,15 @@
 
 🚀 **FastBurp** 是一款基于浏览器扩展的轻量级HTTP/HTTPS请求拦截、重放、分析和AI辅助安全分析浏览器插件，无需安装额外软件，即开即用。
 
-![version](https://img.shields.io/badge/version-1.1.5-blue)
+![version](https://img.shields.io/badge/version-1.2.0-blue)
 ![chrome](https://img.shields.io/badge/Chrome-支持-green)
 ![edge](https://img.shields.io/badge/Edge-支持-green)
 ![360](https://img.shields.io/badge/360极速-支持-green)
 ![QQ](https://img.shields.io/badge/QQ浏览器-支持-green)
 
-- **最新版本**: 1.1.6
-- **更新日期**: 2025/10/7
-- **下载地址**: https://github.com/vam876/FastBurp/releases/tag/v1.1.6
+- **最新版本**: 1.2.0
+- **更新日期**: 2026/5/5
+- **下载地址**: https://github.com/vam876/FastBurp/releases/tag/v1.2.0
 ## ✨ 核心功能
 
 ### 🛡️ 无证书HTTPS抓包

@@ -2,7 +2,7 @@
   "name": "FastBurp",
   "description": "FastBurp - API调试工具",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
